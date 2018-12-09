@@ -1,4 +1,5 @@
 # Tibia-Neat
+(Upando os arquivos no Mega)
 
 1) Abra o painél de controle do XAMPP e inicie os dois primeiros serviços.
 2) Abra o "IP Changer", selecione o executável do Tibia 11.47 e clique em "Mudar IP"
