@@ -1,5 +1,7 @@
 # Tibia-Neat
-(Upando os arquivos no Mega)
+https://mega.nz/#!DFVyRSLA!-qQdBQdSUc6AKVTyNrrtedvOn67FnzAt5TuV9RmWnbs
+
+0) Utilize o "XAMPP" e o "Windbot" que se encontram na pasta "OTXServer Six". Todo o resto está na pasta "Nine Trials".
 
 1) Abra o painél de controle do XAMPP e inicie os dois primeiros serviços.
 2) Abra o "IP Changer", selecione o executável do Tibia 11.47 e clique em "Mudar IP"
